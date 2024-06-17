@@ -1,0 +1,6 @@
+{
+    "standard": ["PDCI","POR","P02","PTK","S99","BLB","BIG","MKM","RVR","LCI","PC2", "HOP", "10E", "2ED", "3ED", "4BB", "4ED", "5DN", "5ED", "6ED", "7ED", "8ED", "9ED", "AER", "AFR", "AKH", "ALA", "ALL", "APC", "ARB", "ARN", "ATQ", "AVR", "BFZ", "BNG", "BOK", "BRO", "CHK", "CON", "CSP", "DGM", "DIS", "DKA", "DMU", "DOM", "DRK", "DST", "DTK", "ELD", "EMN", "EVE", "EXO", "FBB", "FEM", "FRF", "FUT", "GPT", "GRN", "GTC", "HML", "HOU", "ICE", "IKO", "INV", "ISD", "JOU", "JUD", "KHM", "KLD", "KTK", "LCI", "LEA", "LEB", "LEG", "LGN", "LRW", "M10", "M11", "M12", "M13", "M14", "M15", "M19", "M20", "M21", "MAT", "MBS", "MID", "MIR", "MMQ", "MOM", "MOR", "MRD", "NEM", "NEO", "NPH", "ODY", "OGW", "ONE", "ONS", "ORI", "PCY", "PLC", "PLS", "RAV", "RIX", "RNA", "ROE", "RTR", "SCG", "SHM", "SNC", "SOI", "SOK", "SOM", "STH", "STX", "SUM", "THB", "THS", "TMP", "TOR", "TSB", "TSP", "UDS", "ULG", "USG", "VIS", "VOW", "WAR", "WOE", "WTH", "WWK", "XLN", "ZEN", "ZNR", "OTJ"],
+    "commander": ["ARC","CNS","CN2","SLD","CMR","OTC","MKC","REX","LCC","WOC","PIP","BBD", "40K", "AFC", "BRC", "C13", "C14", "C15", "C16", "C17", "C18", "C19", "C20", "C21", "CM2", "CMA", "CMD", "DMC", "KHC", "LCC", "LTC", "MIC", "MOC", "NCC", "NEC", "ONC", "SCD", "VOC", "WHO", "WOC", "ZNC", "CLB"],
+    "horizons": ["DCI","MH1", "MH2", "LTR", "JMP", "J22","SPG", "MH3", "ACR"],
+    "unfinity": ["UNF"]
+}
